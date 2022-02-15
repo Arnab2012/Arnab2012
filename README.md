@@ -1,4 +1,4 @@
-
+<img src="https://www.dreamstime.com/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-image155190388" width="30px">
 <h1 align="center">Hi 👋, I'm 𝓐𝓻𝓷𝓪𝓫 𝓑𝓪𝓼𝓪𝓴</h1>
 <h3 align="center">𝒜 𝒟𝓇𝑒𝒶𝓂𝑒𝓇 , 𝒪𝓋𝑒𝓇𝓉𝒽𝒾𝓃𝓀𝑒𝓇, 𝑀𝓊𝓈𝒾𝒸 𝐿𝒾𝓈𝓉𝑒𝓃𝑒𝓇 𝒶𝓃𝒹 𝓉𝓇𝓎𝒾𝓃𝑔 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝒷𝒾𝓉 𝓉𝑜 𝒞𝑜𝒹𝑒... 🧑‍💻✌️</h3>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/arnab-basak-1a25a5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arnab-basak-1a25a5200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnab-basak-1a25a5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arnab-basak-1a25a5200" height="30" width="40" /></a>
 <a href="https://www.facebook.com/arnab.basak.9216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arnab.basak.9216" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arnabbasak2012/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arnabbasak2012/?hl=en" height="30" width="40" /></a>
 </p>
