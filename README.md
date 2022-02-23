@@ -1,4 +1,4 @@
-<h1 align="center" img src="https://thumbs.dreamstime.com/z/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg" width="30px">
+<h1 align="center"> <img src="https://thumbs.dreamstime.com/z/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg" ></h1>
 <h1 align="center">Hi 👋, I'm 𝓐𝓻𝓷𝓪𝓫 𝓑𝓪𝓼𝓪𝓴</h1>
 <h3 align="center">𝒜 𝒟𝓇𝑒𝒶𝓂𝑒𝓇 , 𝒪𝓋𝑒𝓇𝓉𝒽𝒾𝓃𝓀𝑒𝓇, 𝑀𝓊𝓈𝒾𝒸 𝐿𝒾𝓈𝓉𝑒𝓃𝑒𝓇 𝒶𝓃𝒹 𝓉𝓇𝓎𝒾𝓃𝑔 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝒷𝒾𝓉 𝓉𝑜 𝒞𝑜𝒹𝑒... 🧑‍💻✌️</h3>
 
