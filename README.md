@@ -1,6 +1,5 @@
 
-
-https://user-images.githubusercontent.com/98828838/198835365-3db170b8-9ad6-4549-8fb6-d4daed1401cf.mp4
+![Cover](https://user-images.githubusercontent.com/98828838/198835543-0214c040-03a4-450d-a4e6-bf0de6591c91.png)
 
 
 <h1 align="center">Hello 👋, I'm 𝓐𝓻𝓷𝓪𝓫 𝓑𝓪𝓼𝓪𝓴</h1>
