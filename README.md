@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C ,Java & Web Development**
+- 🌱 I’m currently learning **Java Spring Framework 6 with Spring Boot 3**
 
 - 👀 I'm interested in **Coding...**
 
-- 💬 Ask me about **Nothing...!!!!**
+- 💬 Ask me about **Java...!!!!**
 
 - 📫 How to reach me **basakarnab912@gmail.com**
 
