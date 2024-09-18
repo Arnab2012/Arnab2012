@@ -11,7 +11,7 @@
 
 - 👀 I'm interested in **Coding...**
 
-- 💬 Ask me about **Java...!!!!**
+- 💬 Ask me anything about **Java...!!!!**
 
 - 📫 How to reach me **basakarnab912@gmail.com**
 
