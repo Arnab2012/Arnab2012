@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab2012" alt="arnab2012" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring Framework 6**
+- 🌱 I’m currently learning **React and Redux**
 
 - 👀 I'm interested in **Coding...**
 
